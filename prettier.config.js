@@ -1,5 +1,3 @@
-/** @type {import('prettier').Config} */
-
 export default {
   semi: false,
   singleQuote: true,
@@ -7,8 +5,8 @@ export default {
   printWidth: 100,
   trailingComma: 'es5',
   bracketSpacing: true,
-  arrowParens: 'always', 
-  endOfLine: 'lf',       
-  insertPragma: false,   
-  proseWrap: 'preserve', 
+  arrowParens: 'always',
+  endOfLine: 'lf',
+  insertPragma: false,
+  proseWrap: 'preserve',
 }
