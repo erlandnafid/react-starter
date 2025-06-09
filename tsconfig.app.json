@@ -24,12 +24,8 @@
     "noUncheckedSideEffectImports": true,
 
     // Aliases
-    "baseUrl": "src",
     "paths": {
-      "@/assets/*": ["assets/*"],
-      "@/components/*": ["components/*"],
-      "@/pages/*": ["pages/*"],
-      "@/types/*": ["types/*"]
+      "@/*": ["./src/*"]
     }
   },
   "include": ["src"]

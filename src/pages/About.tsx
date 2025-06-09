@@ -1,7 +1,7 @@
 function AboutPage() {
   return (
     <>
-      <h2>About Page</h2>
+      <h1 className="text-red-500">About Page</h1>
     </>
   )
 }
